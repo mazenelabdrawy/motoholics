@@ -64,7 +64,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'phpmyadmin-1gb-fra1-01',
+	'hostname' => 'motoholics99',
 	'username' => 'admin',
 	'password' => '042f937adada1acf2569ada5ee4322fc43551ed819b072d2',
 	'database' => 'moto',
